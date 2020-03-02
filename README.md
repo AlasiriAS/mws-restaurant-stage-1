@@ -27,6 +27,12 @@ my project will be evaluated by a Udacity code reviewer according to the [Restau
 if version of python is 3.x, type `python3 -m http.server 8000` or `python -m http.server 8000` in Windows.
 - now with the server running, you can visit the site locally: `http://localhost:8000`
 
+### What can be tested
+
+- Webpages are responsive on different sized displays.
+- The page contents have high accessibility.
+- And Serivce worker help to have an offline experience.
+
 ## Leaflet.js and Mapbox:
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). You need to replace `<your MAPBOX API KEY HERE>` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information.
